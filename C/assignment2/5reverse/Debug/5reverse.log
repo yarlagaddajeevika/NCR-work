@@ -1,0 +1,24 @@
+﻿  5reverse.c
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(8): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(9): warning C4013: 'bin_dec_hex' undefined; assuming extern returning int
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(10): warning C4013: 'hex_dec_bin' undefined; assuming extern returning int
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(12): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(5): warning C4101: 'p': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(5): warning C4101: 'q': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(17): warning C4013: 'bin_dec' undefined; assuming extern returning int
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(44): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(44): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(47): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(47): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(50): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(50): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(53): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(53): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(56): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(56): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(59): warning C4047: 'function': 'char *' differs in levels of indirection from 'long'
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(59): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+c:\users\kavitha\desktop\ncrwork\c\assignment2\5reverse\5reverse.c(64): warning C4013: 'dec_bin' undefined; assuming extern returning int
+  5reverse.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\C\assignment2\bintodec\Debug\5reverse.exe
+  5reverse.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\C\assignment2\bintodec\Debug\5reverse.pdb (Partial PDB)

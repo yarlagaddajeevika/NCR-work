@@ -1,0 +1,4 @@
+﻿  3factorial.c
+c:\users\kavitha\desktop\ncrwork\c\assignment2\3factorial\3factorial.c(11): warning C4013: 'getch' undefined; assuming extern returning int
+  3factorial.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\C\assignment2\bintodec\Debug\3factorial.exe
+  3factorial.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\C\assignment2\bintodec\Debug\3factorial.pdb (Partial PDB)
