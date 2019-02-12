@@ -1,67 +1,47 @@
+
 #include<stdio.h>
 #include<string.h>
-int matchword()
+int main()
 {
 	FILE *fp, *fp1;
 	fopen_s(&fp, "test.txt", "r");
 	fopen_s(&fp1, "abcd.txt", "w");
 
-	if (fp == NULL)
-		printf("file1 can't opened");
-	if (fp1 == NULL)
-		printf("file2 can't be opened");
+	if (fp == NULL)				//file1 checking
+		printf("file1 not opening");
+	if (fp1 == NULL)			//file2 checking
+		printf("FILE2 NOT OPENING");
 
-	char str[20], str1[20], ch;
+	char temp[20], a[20], b[20], ch,c=' ';
 	int i, n, flag = 0, j;
-
-	printf("enter the string");
-	gets_s(str, sizeof(str));
-
-	n = strlen(str);
-	getchar();
+	 n=strlen(a);
+    printf("enter string\n");
+	gets(a);
+	for(i=0;i<n;i++)
+	{
+		printf("%c",a[i]);
+	}
 	for (i = 0; i < n; i++)
 	{
-		str1[i] = str[n - i - 1];
+		b[i] = a[n - i - 1];
+		printf("%c",b[i]);
 	}
-	i = 0;
-	long n1 = n;
 
-	while (!feof(fp))
+	while ((fscanf_s(fp, "%s", temp)) !=EOF)
 	{
-		ch = fgetc(fp);
-		while (ch == str[i])
-		{
-			if (i == n - 1)
+		
+			if(strcmp(temp,a)==0)
 			{
-				ch = fgetc(fp);
-				if (ch == '\0' || ch == ' ' || ch == '\n' || feof(fp) == 1)
-				{
-					flag = 1;
-					break;
-				}
-
-			}
-			
-			ch = fgetc(fp);
-			i++;
-		}
-
-		fputc(ch, fp1);
-		if (flag == 1)
-		{
-			j = 0;
-			while (j < n)
+			fputs(b, fp1);
+			fputc(c,fp1);
+			}	
+			else
 			{
-				fputc(str1[j], fp1);
-				j++;
-			}
-			break;
-		}
+			fputs(temp, fp1);
+			fputc(c,fp1);
+			}	
+	
 	}
-	while (!feof(fp))
-	{
-		ch = fgetc(fp);
-		fputc(ch, fp1);
-	}
-	return 0;
+		return 0;
 }
+
