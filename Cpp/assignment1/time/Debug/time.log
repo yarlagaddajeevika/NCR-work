@@ -1,0 +1,4 @@
+﻿  time.cpp
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\time\time.cpp(57): warning C4930: 'time t2(void)': prototyped function not called (was a variable definition intended?)
+  time.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\time.exe
+  time.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\time.pdb (Partial PDB)

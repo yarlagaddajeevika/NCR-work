@@ -1,0 +1,4 @@
+﻿  coordinates.cpp
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\caretesian\coordinates.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  caretesian.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\caretesian.exe
+  caretesian.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\caretesian.pdb (Partial PDB)

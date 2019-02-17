@@ -1,0 +1,13 @@
+﻿  multiplication.cpp
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'c1': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'a': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'k': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'r2': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'b': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'mult': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'r1': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'j': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'i': unreferenced local variable
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\matrix\multiplication.cpp(9): warning C4101: 'c2': unreferenced local variable
+  matrix.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\matrix.exe
+  matrix.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\matrix.pdb (Partial PDB)

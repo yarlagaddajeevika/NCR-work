@@ -1,0 +1,7 @@
+﻿  dist.cpp
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\distance\dist.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\distance\dist.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\distance\dist.cpp(43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\kavitha\desktop\ncrwork\cpp\assignment1\distance\dist.cpp(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  distance.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\distance.exe
+  distance.vcxproj -> C:\Users\Kavitha\Desktop\ncrwork\Cpp\assignment1\Debug\distance.pdb (Partial PDB)
